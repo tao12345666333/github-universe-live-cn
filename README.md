@@ -1,5 +1,7 @@
 # github-universe-live-cn
 
+!License: MIT
+
 > [!CAUTION]
 > Just for demo.
 
