@@ -1,5 +1,7 @@
 # github-universe-live-cn
 
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 > [!CAUTION]
 > Just for demo.
 
