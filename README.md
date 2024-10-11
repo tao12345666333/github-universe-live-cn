@@ -1,5 +1,8 @@
 # github-universe-live-cn
 
+> [!CAUTION]
+> Just for demo.
+
 ## Description
 
 This project is designed to provide a comprehensive overview of the GitHub Universe Live event in China. It includes features such as event schedules, speaker information, and live updates.
